@@ -22,3 +22,4 @@ Note: Not sure if "correct" solution.
 ---
 # Notes
 - Find out what `libvirt` is 
+- Credit to [Aral Balkan from the Gnome GitLab](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/346)
