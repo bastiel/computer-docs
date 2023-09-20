@@ -1,4 +1,9 @@
 # Gnome Boxes Workaround 
+
+## Operating System
+Pop_OS
+
+# Description
 This problem occured after I tried to clone a VM on Boes. There was an infinite loading screen, and I assumed it was safe to close and restart. I was wrong. It kept crashing upon opening, and it continued to crash even after uninstalling and purging the app. 
 The following errors popped up when launching Boxes in terminal or some variation:
 
