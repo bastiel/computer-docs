@@ -3,7 +3,9 @@
 Install and Configuration 
 ## Operating System
 All
+
 ---
+
 # Description
 This document serves as the installation and configuration guide for Anki. This includes add-ons. 
 
